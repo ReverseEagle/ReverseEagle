@@ -9,7 +9,7 @@ ReverseEagle is a young community thriving to stop monolithic organizations taki
 
 - [Website](https://reverseeagle.org)
 - [Codeberg](https://codeberg.org/reverseeagle)
-- [Framagit](https://framagit.org/reverseeagle)
+- [Source](https://codeberg.org/reverseeagle/reverseeagle/)
 
 ---
 
